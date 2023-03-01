@@ -1,4 +1,4 @@
-# nicar23-money
+# NICAR23 Money
 
 Uncovering Underground Money Networks: A Deep Dive into Investigative Journalism Techniques and Tools.
 
@@ -6,7 +6,11 @@ Uncovering Underground Money Networks: A Deep Dive into Investigative Journalism
 
 [Aleph](https://github.com/alephdata/aleph) - A tool for managing large collections of documents and extracting structured data from them.
 
+[OCCRP catalog of research databases](https://id.occrp.org/databases/) - Global index of public registries for company, land and court records. OCCRP has pulled together over 1,000 sources from 181 countries.
+
 ## Example code
+
+### Summarize long documents using AI
 
 [summarizer.py](nicar23_money/summarizer.py)
 
