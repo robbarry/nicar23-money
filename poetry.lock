@@ -193,18 +193,6 @@ files = [
 ]
 
 [[package]]
-name = "attr"
-version = "0.3.2"
-description = "Simple decorator to set attributes of target function or class in a DRY way."
-category = "main"
-optional = false
-python-versions = "*"
-files = [
-    {file = "attr-0.3.2-py2.py3-none-any.whl", hash = "sha256:4f4bffeea8c27387bde446675a7ac24f3b8fea1075f12d849b5f5c5181fc8336"},
-    {file = "attr-0.3.2.tar.gz", hash = "sha256:1ceebca768181cdcce9827611b1d728e592be5d293911539ea3d0b0bfa1146f4"},
-]
-
-[[package]]
 name = "attrs"
 version = "22.2.0"
 description = "Classes Without Boilerplate"
@@ -1803,4 +1791,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "42afab5a18d7fcdd8fddc670a19d3c00aec8f0d0509e0773f6526f0d0b833ce0"
+content-hash = "26d1c17cd029b285766d11412501f505f1adf3cf5d17a78493d47572b6d9280a"
