@@ -1,0 +1,28 @@
+[build-system]
+requires = [ "poetry-core",]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "nicar23-money"
+version = "0.1.0"
+description = "Uncovering Underground Money Networks: A Deep Dive into Investigative Journalism Techniques and Tools"
+authors = [ "Rob Barry <rob.barry@wsj.com>",]
+readme = "README.md"
+[[tool.poetry.packages]]
+include = "nicar23_money"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+attr = "^0.3.2"
+toml = "^0.10.2"
+attrs = "^22.2.0"
+python-dotenv = "^1.0.0"
+pypdf2 = "^3.0.1"
+langchain = "^0.0.94"
+openai = "^0.26.5"
+tiktoken = "^0.2.0"
+requests = "^2.28.2"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+
