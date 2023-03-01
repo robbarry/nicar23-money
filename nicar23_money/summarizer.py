@@ -38,6 +38,11 @@ from langchain.text_splitter import CharacterTextSplitter
 # in conjunction with the OpenAI language model
 from langchain import OpenAI
 
+# get env variables
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 def get_pdf_text(args):
     reader = PdfReader(args.filename)
@@ -74,7 +79,6 @@ def summarize(args):
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser(
         description="Summarize long documents using langchain"
     )
