@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.sqlite
+*.db
+*.csv
+.DS_Store
+.env
+.fenix
+.DS_Store
