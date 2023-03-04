@@ -16,6 +16,8 @@ Here are some of the tools and resources we mentioned in the session.
 
 [Isle of Man aircraft registry](https://ardis.iomaircraftregistry.com/register/search) - Search for aircraft registered in the Isle of Man.
 
+[Jersey corporate registry](https://www.jerseyfsc.org/registry/registry-entities/) - Search for company information and documents in Jersey.
+
 [Fédération Equestre Internationale (FEI)](https://data.fei.org/Horse/Search.aspx) - Search for horses registered with the FEI (or for [people](https://data.fei.org/Person/Search.aspx)).
 
 ## Example code
