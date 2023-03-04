@@ -4,11 +4,17 @@ Uncovering Underground Money Networks: A Deep Dive into Investigative Journalism
 
 ## List of Resources
 
+Here are some of the tools and resources we mentioned in the session.
+
 [Aleph](https://github.com/alephdata/aleph) - A tool for managing large collections of documents and extracting structured data from them.
 
 [OCCRP catalog of research databases](https://id.occrp.org/databases/) - Global index of public registries for company, land and court records. OCCRP has pulled together over 1,000 sources from 181 countries.
 
 [DomainTools](https://www.domaintools.com/) - Historical WHOIS information and domain name registration data. Recently purchased Farsight Security, which has a lot of DNS data.
+
+[Isle of Man corporate registry](https://services.gov.im/ded/services/companiesregistry/companysearch.iom) - Search for company information and documents in the Isle of Man.
+
+[Isle of Man aircraft registry](https://ardis.iomaircraftregistry.com/register/search) - Search for aircraft registered in the Isle of Man.
 
 ## Example code
 
