@@ -8,6 +8,8 @@ Uncovering Underground Money Networks: A Deep Dive into Investigative Journalism
 
 [OCCRP catalog of research databases](https://id.occrp.org/databases/) - Global index of public registries for company, land and court records. OCCRP has pulled together over 1,000 sources from 181 countries.
 
+[DomainTools](https://www.domaintools.com/) - Historical WHOIS information and domain name registration data. Recently purchased Farsight Security, which has a lot of DNS data.
+
 ## Example code
 
 ### Summarize long documents using AI
